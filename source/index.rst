@@ -1,4 +1,4 @@
-.. 点滴 documentation master file, created by
+.. 袁笔记 documentation master file, created by
    sphinx-quickstart on Tue May 30 13:29:12 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -8,9 +8,8 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 目录:
+   :caption: Contents:
 
-   C++/index
    OTA/index
 
 检索
